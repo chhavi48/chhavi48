@@ -14,3 +14,21 @@ Here are some ideas to get you started:-->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX5qY-GeZwBiFFuagdnZ7ajHBVVXuMF4r8BDy3-qLuA-nk1Pm2A9z5WfdpaLBVCMQv8Y&usqp=CAU" height="100px" width="80px"/>
     <img src="https://notifystatus.io/images/parent/npmjs.png" height="100px" width="100px"/>
 </div>
+
+
+CATching bugs in code...
+                              
+       \`*-.    [me]              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
