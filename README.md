@@ -56,7 +56,7 @@ Latest commit 8253098 on Jul 21, 2021
 - Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer -->
 
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=spyadav14699" alt="chhavi" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi48" alt="chhavi" /> </h3>
 
 
 
