@@ -14,6 +14,7 @@ Here are some ideas to get you started:-->
   <img src="https://store-images.s-microsoft.com/image/apps.45991.14451170867457452.5130caab-3678-4c57-a404-316d66b8950e.02f1392d-5afb-4213-94a0-66877e59fce0?mode=scale&q=90&h=300&w=300" height="100px" width="80px"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX5qY-GeZwBiFFuagdnZ7ajHBVVXuMF4r8BDy3-qLuA-nk1Pm2A9z5WfdpaLBVCMQv8Y&usqp=CAU" height="100px" width="80px"/>
     <img src="https://notifystatus.io/images/parent/npmjs.png" height="100px" width="100px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="100px" width="100px"/>
 </div>
 <!-- Skip to content
 Search or jump to…
