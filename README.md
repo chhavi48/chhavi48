@@ -22,6 +22,17 @@ Here are some ideas to get you started:-->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="100px" width="100px"/>
 
 </div>
+<h2 align="center"> My Github Stats : </h2>
+    
+<!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=Kgaurav113&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
+ 
+ <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kgaurav113&" alt="chamarthivamsidev" /></p>
+
+<p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kgaurav113&show_icons=true&locale=en&layout=compact" alt="gaurav" /></p> -->
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaurav113&layout=compact&theme=vue&hide_border=true" /> -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48)
 <!-- Skip to content
 Search or jump to…
 Pull requests
