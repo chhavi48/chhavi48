@@ -24,6 +24,7 @@ Here are some ideas to get you started:-->
      <img src="https://spyadav14699.github.io/portfolio/image/svgs/nodejs.svg"  height="100px" width="100px"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100px" width="100px"/>
     <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" height="100px" width="100px"/>
+      <br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="100px" width="100px"/>
 
 </div>
