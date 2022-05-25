@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaurav113&layout=compact&theme=vue&hide_border=true" /> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sichhavi48)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48)
 <!-- Skip to content
 Search or jump to…
 Pull requests
