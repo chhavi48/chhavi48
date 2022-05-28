@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
 </div>
 <h2 align="center"> My Github Stats : </h2>
     
-<!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=Kgaurav113&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
+<!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
  <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kgaurav113&" alt="chamarthivamsidev" /></p>
 
@@ -82,6 +82,7 @@ Latest commit 8253098 on Jul 21, 2021
 
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi48" alt="chhavi" /> </h3>
+<!-- <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?username=chhavi48style=flat-square"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?username=chhavi48style=flat-square"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?username=chhavi48style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> -->
 
 
 
