@@ -27,8 +27,8 @@ Here are some ideas to get you started:-->
       <br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="100px" width="100px"/>
 
-</div>
-<h2 align="center"> My Github Stats : </h2>
+</div> 
+<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
     
 <!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaurav113&layout=compact&theme=vue&hide_border=true" /> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48) 
 <!-- Skip to content
 Search or jump to…
 Pull requests
