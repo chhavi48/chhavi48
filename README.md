@@ -27,8 +27,23 @@ Here are some ideas to get you started:-->
       <br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="100px" width="100px"/>
 
+     
 </div> 
+
+<hr/>
+🌱 What do I do?
+
+✔️  I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+- Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,React js , Node.js and Data Structures and Algorithm.
+
+- Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+- <hr/>
+
 <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
+
+
     
 <!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
@@ -70,15 +85,6 @@ Latest commit 8253098 on Jul 21, 2021
 ### Hi there 👋
 **Glad To See You Here!** ✨ -->
 
-
-<!-- 🌱 What do I do?
-
-✔️ Though I hold Master's degree in Engineering in Electronics, I aspire to work as a programmer.
-
-✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
-- Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,Express js , Node.js, MongoDB and Data Structures and Algorithm.
-
-- Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer -->
 
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi48" alt="chhavi" /> </h3>
