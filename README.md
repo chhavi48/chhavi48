@@ -6,6 +6,16 @@
 <!--**chhavi48/chhavi48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+<hr/>
+🌱 What do I do?
+
+✔️  I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+- Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,React js , Node.js and Data Structures and Algorithm.
+
+- Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+- <hr/>
 <h2>languge and tools</h2>
 <h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,soft skill(bloger)</h5>
 <div>
@@ -30,16 +40,7 @@ Here are some ideas to get you started:-->
      
 </div> 
 
-<hr/>
-🌱 What do I do?
 
-✔️  I aspire to work as a programmer.
-
-✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
-- Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,React js , Node.js and Data Structures and Algorithm.
-
-- Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
-- <hr/>
 
 <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
 
