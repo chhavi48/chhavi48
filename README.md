@@ -1,7 +1,12 @@
 <!-- hello everyone 👋 i'm &#128512; chhavi ... -->
 <h1 align="center">Hi , I'm Chhavi Srivastva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
      <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <hr/>
+From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
 
+I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <!--**chhavi48/chhavi48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
