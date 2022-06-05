@@ -48,7 +48,7 @@ Here are some ideas to get you started:-->
 
 
 <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
-
+<!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
 
     
 <!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
