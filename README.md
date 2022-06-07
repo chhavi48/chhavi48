@@ -50,6 +50,7 @@ Here are some ideas to get you started:-->
 <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
 <!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
 
+<a href="https://github.com/chhavi48-cmd/github-readme-activity-graph"><img alt="chhhavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     
 <!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
@@ -59,9 +60,9 @@ Here are some ideas to get you started:-->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaurav113&layout=compact&theme=vue&hide_border=true" /> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48)  -->
 
-![snake gif](https://raw.githubusercontent.com/chhavi48/chhavi48/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://raw.githubusercontent.com/chhavi48/chhavi48/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- Skip to content
