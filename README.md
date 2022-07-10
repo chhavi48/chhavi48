@@ -40,7 +40,7 @@ Here are some ideas to get you started:-->
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50px" width="50px"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxawt2Qdg7ZHtebe59ru7seoCCnmYtyuvZzjyk90mYpzzLDpmjzqmkrZFOeJEKPPLFnok&usqp=CAU" height="50px" width="50px"/>
     <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" height="50px" width="50px"/>
-      <br/>
+     
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="50px" width="50px"/>
 
      
