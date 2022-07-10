@@ -22,7 +22,7 @@ Here are some ideas to get you started:-->
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 <hr/>
 <h2>languge and tools</h2>
-<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,soft skill(bloger)</h5>
+<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,soft skill(bloger)</h5>
 <div>
 <img src="https://thumbs.dreamstime.com/b/vector-logo-letter-c-glitch-distortion-diagonal-modern-vector-logo-letter-c-c-letter-design-vector-126107818.jpg" height="50px" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="50px" width="50px"/>
@@ -38,6 +38,7 @@ Here are some ideas to get you started:-->
    <img src="https://spyadav14699.github.io/portfolio/image/svgs/redux.svg" height="50px" width="50px"/>
      <img src="https://spyadav14699.github.io/portfolio/image/svgs/nodejs.svg"  height="50px" width="50px"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50px" width="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxawt2Qdg7ZHtebe59ru7seoCCnmYtyuvZzjyk90mYpzzLDpmjzqmkrZFOeJEKPPLFnok&usqp=CAU" height="50px" width="50px"/>
     <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" height="50px" width="50px"/>
       <br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="50px" width="50px"/>
