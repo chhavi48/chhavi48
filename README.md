@@ -111,14 +111,18 @@ Latest commit 8253098 on Jul 21, 2021
 </p>
 <p align="center">
  <h2 align="left">🤝Let's Connect</h2>
+
+
 <a href="https://twitter.com/@srivastavchhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/chhavisrivastva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<h4>Just Scan and connect🤝</h4>
+ <img src="https://user-images.githubusercontent.com/77965216/185343035-d24afd26-2ae2-4946-9866-52c18fae0667.png" height="150px" width="150px"/>
 
 </p>
 </hr>
-<a href="http://www.github.com/chhavi48"><img src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chhavi 💁‍♂️🤷‍♂️ GitHub stats" /></a>
+<!--<a href="http://www.github.com/chhavi48"><img src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chhavi 💁‍♂️🤷‍♂️ GitHub stats" /></a>
 </hr>
-<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 <!-- <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?username=chhavi48style=flat-square"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?username=chhavi48style=flat-square"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?username=chhavi48style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?username=chhavi48color=blue&style=flat-square"> -->
 
 
