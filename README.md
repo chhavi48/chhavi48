@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi , I'm Chhavi Srivastav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-<a href="https://app.daily.dev/Chhavi"><img src="https://api.daily.dev/devcards/65189dde55a34df3a00be8e47058314d.png?r=thk" width="400" alt="Chhavi srivastav's Dev Card"/></a>
+
 </div>
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <hr/>
