@@ -1,14 +1,28 @@
+
+
 <!-- hello everyone 👋 i'm &#128512; chhavi ... -->
+
 <h1 align="center">Hi , I'm Chhavi Srivastav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+<div align="center">
+<a href="https://app.daily.dev/Chhavi"><img src="https://api.daily.dev/devcards/65189dde55a34df3a00be8e47058314d.png?r=thk" width="400" alt="Chhavi srivastav's Dev Card"/></a>
+</div>
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <hr/>
+     <div style="display:flex">
+    <p align="left" style="max-width:40%">
 From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+</p>
+
+
+</div>
+
 <!--**chhavi48/chhavi48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:-->
 <hr/>
