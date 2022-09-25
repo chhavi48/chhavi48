@@ -134,7 +134,8 @@ Latest commit 8253098 on Jul 21, 2021
 
 </p>
 </hr>
-<p align='center'><a href="https://twitter.com/chhavi48"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=chhavi48&layout=wide" width="350"  alt="github-readme-twitter"></a></p></hr>
+<!--
+<p align='center'><a href="https://twitter.com/chhavi48"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=chhavi48&layout=wide" width="350"  alt="github-readme-twitter"></a></p></hr>-->
 <!--<a href="http://www.github.com/chhavi48"><img src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chhavi 💁‍♂️🤷‍♂️ GitHub stats" /></a>
 </hr>
 <a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
