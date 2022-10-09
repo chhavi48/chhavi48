@@ -76,50 +76,12 @@ Here are some ideas to get you started:-->
 
 <p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kgaurav113&show_icons=true&locale=en&layout=compact" alt="gaurav" /></p> -->
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgaurav113&layout=compact&theme=vue&hide_border=true" /> -->
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chhavi48)  -->
-
-<!-- ![snake gif](https://raw.githubusercontent.com/chhavi48/chhavi48/output/github-contribution-grid-snake.svg) -->
 
 
-<!-- Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@chhavi48 
-MeeraMendhe
-/
-MeeraMendhe
-Public
-Code
-Issues
-Pull requests -->
-<!-- Actions
-Projects
-Wiki
-Security
-Insights
-MeeraMendhe/README.md
-@MeeraMendhe
-MeeraMendhe Update README.md
-Latest commit 8253098 on Jul 21, 2021
- History
- 1 contributor
-65 lines (44 sloc)  3.26 KB
-   
-### Hi there 👋
-**Glad To See You Here!** ✨ -->
 
 
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi48" alt="chhavi" /> </h3>
-<!-- <p align="center">
-  <a href="https://github.com/chhavi48?tab=repositories&sort=stargazers"> -->
-<!--     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/chhavi48"/></a> -->
   <a href="https://github.com/chhavi48?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chhavi48?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p><hr/>
@@ -129,6 +91,8 @@ Latest commit 8253098 on Jul 21, 2021
 
 <a href="https://twitter.com/@srivastavchhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/chhavisrivastva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<p align='center'><a href="https://twitter.com/@SrivastavChhavi"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@SrivastavChhavi&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+
 <h4>Just Scan and connect🤝</h4>
  <img src="https://user-images.githubusercontent.com/77965216/185343035-d24afd26-2ae2-4946-9866-52c18fae0667.png" height="150px" width="150px"/>
 
