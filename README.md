@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi , I'm Chhavi Srivastav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
 </div>
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <hr/>
@@ -102,7 +102,7 @@ Here are some ideas to get you started:-->
 </p>
 </hr>
 <a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+
 <!--
 <p align='center'><a href="https://twitter.com/chhavi48"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=chhavi48&layout=wide" width="350"  alt="github-readme-twitter"></a></p></hr>-->
 <!--<a href="http://www.github.com/chhavi48"><img src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chhavi 💁‍♂️🤷‍♂️ GitHub stats" /></a>
