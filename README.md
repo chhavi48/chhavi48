@@ -101,7 +101,16 @@ Here are some ideas to get you started:-->
 
 </p>
 </hr>
-<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+
+## 📊 My Github Stats
+<img src="https://github-profile-trophy.vercel.app/?username=chhavi48&theme=algolia" align="center" alt="chhavi48" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chhavi48&theme=2077" width="100%" />
+
+
+![GitHub metrics](https://metrics.lecoq.io/chhavi48) 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chhavi48&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 <p align='center'><a href="https://twitter.com/chhavi48"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=chhavi48&layout=wide" width="350"  alt="github-readme-twitter"></a></p></hr>-->
