@@ -10,11 +10,11 @@
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%">
-From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, Node.js, React.js, and more. 
 
-I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+With nine months of experience as a front-end developer, I love tackling challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Let's connect and explore my projects on GitHub. Reach out at sichhavi48@gmail.com."
 
 </p>
      
