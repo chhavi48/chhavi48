@@ -17,19 +17,13 @@ With nine months of experience as a front-end developer, I love tackling challen
 Let's connect and explore my projects on GitHub. Reach out at sichhavi48@gmail.com."
 
 </p>
-     
-
-
-
-
 </div>
 
 <!--**chhavi48/chhavi48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:-->
-<hr/>
-🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 ✔️  I aspire to work as a programmer.
 
