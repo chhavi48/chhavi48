@@ -82,9 +82,7 @@ Here are some ideas to get you started:-->
 
 
 
-(https://metrics.lecoq.io/chhavi48) 
 
-(https://github-readme-activity-graph.cyclic.app/graph?username=chhavi48&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/chhavi48/github-readme-activity-graph)
 
 
 <!--
