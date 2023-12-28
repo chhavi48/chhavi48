@@ -79,9 +79,7 @@ Here are some ideas to get you started:-->
 </hr>
 <!--<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
-## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=chhavi48&theme=algolia" align="center" alt="chhavi48" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chhavi48&theme=2077" width="100%" />
+
 
 
 (https://metrics.lecoq.io/chhavi48) 
