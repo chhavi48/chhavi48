@@ -84,9 +84,9 @@ Here are some ideas to get you started:-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chhavi48&theme=2077" width="100%" />
 
 
-![GitHub metrics](https://metrics.lecoq.io/chhavi48) 
+(https://metrics.lecoq.io/chhavi48) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chhavi48&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.cyclic.app/graph?username=chhavi48&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/chhavi48/github-readme-activity-graph)
 
 
 <!--
