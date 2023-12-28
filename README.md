@@ -33,29 +33,11 @@ Here are some ideas to get you started:-->
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
 <hr/>
 <h2>languge and tools</h2>
-<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5>
-<div>
-<img src="https://thumbs.dreamstime.com/b/vector-logo-letter-c-glitch-distortion-diagonal-modern-vector-logo-letter-c-c-letter-design-vector-126107818.jpg" height="50px" width="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="50px" width="50px"/>
-<img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" height="50px" width="50px"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="50px" width="50px"/>
-  <img src="https://store-images.s-microsoft.com/image/apps.45991.14451170867457452.5130caab-3678-4c57-a404-316d66b8950e.02f1392d-5afb-4213-94a0-66877e59fce0?mode=scale&q=90&h=300&w=300" height="50px" width="50px"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX5qY-GeZwBiFFuagdnZ7ajHBVVXuMF4r8BDy3-qLuA-nk1Pm2A9z5WfdpaLBVCMQv8Y&usqp=CAU" height="50px" width="50px"/>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndp6hGNdHEnGuY6sS79rMgs29ejdYmvNrj09in407znQA-XhUQUFwYi9AJKfO7dP5sEA&usqp=CAU"  height="50px" width="50px"/>
-    <img src="https://notifystatus.io/images/parent/npmjs.png" height="50px" width="50px"/>
-    <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" height="50px" width="50px"/>
-  <img src="https://logowik.com/content/uploads/images/php.jpg" height="50px" width="50px"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" height="50px" width="50px"/>
-   <img src="https://spyadav14699.github.io/portfolio/image/svgs/redux.svg" height="50px" width="50px"/>
-     <img src="https://spyadav14699.github.io/portfolio/image/svgs/nodejs.svg"  height="50px" width="50px"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50px" width="50px"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxawt2Qdg7ZHtebe59ru7seoCCnmYtyuvZzjyk90mYpzzLDpmjzqmkrZFOeJEKPPLFnok&usqp=CAU" height="50px" width="50px"/>
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  height="50px" width="50px"/>
-  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"  height="50px" width="50px"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="50px" width="50px"/>
-    <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" height="50px" width="50px"/>
-     
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="50px" width="50px"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,sass,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git" />
+  </a>
+</p>
 
      
 </div> 
