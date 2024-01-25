@@ -70,14 +70,22 @@ Here are some ideas to get you started:-->
 
 <a href="https://twitter.com/@srivastavchhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/chhavisrivastva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<p align='center'><a href="https://twitter.com/@SrivastavChhavi"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@SrivastavChhavi&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+
+
+
+<img src="https://github.com/chhavi48/chhavi48/assets/77965216/be555b57-a705-4fdf-9061-6949e08442de"/>
+
 
 <h4>Just Scan and connect🤝</h4>
  <img src="https://user-images.githubusercontent.com/77965216/185343035-d24afd26-2ae2-4946-9866-52c18fae0667.png" height="150px" width="150px"/>
 
 </p>
+
 </hr>
+
+
 <!--<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+
 
 
 
