@@ -71,9 +71,12 @@ Here are some ideas to get you started:-->
 <a href="https://twitter.com/@srivastavchhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/chhavisrivastva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-
-
-<img src="https://github.com/chhavi48/chhavi48/assets/77965216/be555b57-a705-4fdf-9061-6949e08442de"/>
+## :bar_chart: Github Stats
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=chhavi48&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="chhavi" />
+<!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=shubhi221199&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubhi-sharma" /> -->
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhi221199&show_icons=true&theme=radical&hide_border=true" alt="chhavi48" /></p>
+</div>
 
 
 <h4>Just Scan and connect🤝</h4>
