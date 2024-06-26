@@ -74,8 +74,8 @@ Here are some ideas to get you started:-->
 ## :bar_chart: Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=chhavi48&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="chhavi" />
-<!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=shubhi221199&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubhi-sharma" /> -->
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhi221199&show_icons=true&theme=radical&hide_border=true" alt="chhavi48" /></p>
+<!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=chhavi48&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="chhavi" /> -->
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavi48&show_icons=true&theme=radical&hide_border=true" alt="chhavi" /></p>
 </div>
 
 
