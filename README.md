@@ -12,7 +12,7 @@
     <p align="left" style="max-width:40%">
 I'm a passionate full-stack web developer with expertise in HTML, CSS, JavaScript, React.js, Node.js, and more. 
 
-With 2 year of experience as a front-end developer, I love tacking challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
+With 3 year of experience as a front-end developer, I love tacking challenging projects and experimenting with new technologies. I'm also skilled in team management and enjoy sharing my knowledge through blog writing. 
 
 Let's connect and explore my projects on GitHub. Reach out at sichhavi48@gmail.com."
 
